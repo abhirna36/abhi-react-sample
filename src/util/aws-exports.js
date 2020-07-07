@@ -1,7 +1,7 @@
 
 const awsExports = {
   Auth: {
-    object: "abc",
+    object: "abcd",
   }
 };
 
