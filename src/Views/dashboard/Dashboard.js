@@ -8,10 +8,6 @@ import Text from "../common/Text";
 export default function Dashboard() {
   const classes = useStyles();
 
-  // const getFilteredList = (type) => {
-  //   return (taskList.filter((item) => { return item.taskState === type }));
-  // };
-
   return (
     <div className={classes.root}>
       <Text
