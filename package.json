@@ -10,7 +10,7 @@
     "@testing-library/user-event": "^7.1.2",
     "aws-amplify": "^2.3.0",
     "aws-amplify-react": "^4.1.16",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "lodash": "^4.17.15",
     "material-ui-search-bar": "^1.0.0-beta.14",
     "node-sass": "^4.14.1",
